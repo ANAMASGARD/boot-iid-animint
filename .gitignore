@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
+
+# animint output (local only)
+boot-iid-animint-output/
